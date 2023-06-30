@@ -11,3 +11,6 @@ console.log('hello World!!')
 ```````
 println("this is java");
 ````````
+- [x] Practice MD formaatting
+- [ ] look for examples online
+- [ ] create a super duper landing page
